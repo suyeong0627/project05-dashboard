@@ -11,7 +11,6 @@
 
 👉 **[앱 바로가기](https://your-username-project05-dashboard.streamlit.app/)**
 
-> ⚠️ `your-username` 부분을 자신의 GitHub 계정명으로 변경하세요!
 
 ---
 
