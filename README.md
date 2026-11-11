@@ -7,7 +7,7 @@
 
 ## 🌐 배포 링크
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 👉 **[앱 바로가기](https://suyeong0627-project05-dashboard.streamlit.app/)**
 
