@@ -9,7 +9,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-project05-dashboard.streamlit.app/)
 
-👉 **[앱 바로가기](https://your-username-project05-dashboard.streamlit.app/)**
+👉 **[앱 바로가기](https://suyeong0627-project05-dashboard.streamlit.app/)**
 
 
 ---
