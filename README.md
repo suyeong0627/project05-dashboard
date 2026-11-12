@@ -103,7 +103,7 @@ project05-dashboard/
 **1단계: 저장소 클론**
 
 ```bash
-git clone https://github.com/your-username/project05-dashboard.git
+git clone https://github.com/suyeong0627/project05-dashboard.git
 cd project05-dashboard
 ```
 
